@@ -12,7 +12,7 @@ The purpose of this project is to showcase the relationships between the cities 
 When evaluating the total fare cost by city type from January to May of 2019, you can see that during the Rural areas tend to generate less revenue compared to Urban areas. Throughout the evaluated time period each of the different city types appear to generate fairly steady revenue, and each saw a spike in total fares during the end of Feburary. 
 
 ### Fig 2. Summary Dataframe by City Type
-![PyBer_fare_summary]( )
+![PyBer_fare_summary](https://github.com/CorinneBean/PyBer_Analysis/blob/5b504ef1c9f577d57eb5275a26da6029c571120e/analysis/PyBer_fare_summary.png)
 
 When reviewing the Summary Datafram by City Type, it becomes obvious that the number of total rides and total drivers in Urban areas is substantionally higher in comparison to suburban or rural areas. This correlates with the higher fares that is generated in this area during the evaluation period. When you look at the average fare per rider and driver it is also clear that users of the PyBer ridesharing app in the different city types it is clear that users in the rural areas spend more than users in the urban areas per fare. This could be a result of the distances between locations for each ride. In urban areas desired locations are within a closer proxminity than in rural areas. This makes it easier for drivers to provide more rides at a lower cost vs those in rural or suburban areas.
 
