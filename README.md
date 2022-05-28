@@ -7,7 +7,7 @@ The purpose of this project is to showcase the relationships between the cities 
 ## 2. Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
 ### Fig 1. Total Fare by City Type
-![PyBer_fare_by_city]()
+![PyBer_fare_by_city](https://github.com/CorinneBean/PyBer_Analysis/blob/f87a48908ca57fe144f15836a47823498dcfc736/analysis/PyBer_fare_by_city.png)
 
 When evaluating the total fare cost by city type from January to May of 2019, you can see that during the Rural areas tend to generate less revenue compared to Urban areas. Throughout the evaluated time period each of the different city types appear to generate fairly steady revenue, and each saw a spike in total fares during the end of Feburary. 
 
